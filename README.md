@@ -1,4 +1,4 @@
-# education-social-justice
+# Kaiser Lab Demo
 
 Using vanilla Javascript and D3.js.
 
